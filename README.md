@@ -2,4 +2,4 @@
 
 ### by [George Merlocco (scar45)](https://george.merloc.co)
 
-This is my custom theme created for VSCode and other supported editors.
+A dark color theme for VSCode inspired by futuristic holo tech, comprised of a purple, pink, and blue palette.
