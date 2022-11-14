@@ -1,0 +1,21 @@
+{
+  "name": "nitrous-vscode-color-theme",
+  "displayName": "NiTROUS VSCode Color Theme",
+  "description": "Dark color theme for VSCode with a purple/blue palette",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NiTROUS",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nitrous-vscode-color-theme.json"
+      }
+    ]
+  }
+}
