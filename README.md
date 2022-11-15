@@ -1,14 +1,14 @@
-<p style="text-align: center">
+<p align="center">
 <img src="./images/nitrous-cloud-logo.png" alt="NiTROUS Logo">
 </p>
 
-<h2 style="text-align: center">NiTROUS VSCode Color Theme</h2>
+<h1 align="center">NiTROUS VSCode Color Theme</h1>
 
-<h3 style="text-align: center">
+<h2 align="center">
 <small>
-by <a href="https://george.merloc.co" title="Visit my website">George Merlocco (scar45)</a>
+by <a href="https://george.merloc.co" title="Visit my website">George Merlocco 👨🏻‍💻 (scar45)</a>
 </small>
-</h3>
+</h2>
 
 ---
 
