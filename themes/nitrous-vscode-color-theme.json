@@ -1,11 +1,12 @@
 {
-  "name": "NiTROUS",
+  "name": "NiTROUS Theme (Dark)",
   "colors": {
     "foreground": "#b0b0f7",
     "descriptionForeground": "#b0b0f7",
     // Activity Bar
     "activityBar.background": "#1d1d47",
     "activityBar.foreground": "#81bcff",
+    "activityBar.border": "#26265f",
     "activityBarBadge.background": "#9e2992",
     "activityBarBadge.foreground": "#c0deff",
     // Buttons
@@ -17,11 +18,19 @@
     "checkbox.background": "#9e2992",
     "checkbox.foreground": "#d5e9ff",
     "checkbox.border": "#9e2992",
+    // Dropdowns
+    "dropdown.background": "#26265f",
+    "dropdown.foreground": "#d5e9ff",
+    "dropdown.listBackground": "#303077",
+    "dropdown.border": "#6060ee",
     // Editor
     "editor.background": "#091833",
     "editor.foreground": "#b0b0f7",
-    "editor.findMatchBackground": "#91ff95",
-    "editor.findMatchHighlightBackground": "#91ff9588",
+    "editor.findMatchBackground": "#e5ff0055",
+    "editor.findMatchBorder": "#e5ff00",
+    "editor.findMatchHighlightBackground": "#b5c90033",
+    "editor.findMatchHighlightBorder": "#e5ff00",
+    "editor.findRangeHighlightBackground": "#9dff0033",
     "editor.hoverHighlightBackground": "#42c6ff2a",
     "editor.lineHighlightBackground": "#0d2b4c",
     "editor.selectionBackground": "#3a3a8f",
@@ -30,9 +39,9 @@
     "editor.wordHighlightStrongBackground": "#42c6ff63",
     "editorCursor.foreground": "#e23bd1",
     "editorError.foreground": "#FF3E3E",
-    "editorGroup.border": "#6060ee",
+    "editorGroup.border": "#4d4dbe",
     "editorGroup.dropBackground": "#3a3a8f9f",
-    "editorGroupHeader.border": "#8080f1",
+    "editorGroupHeader.border": "#4d4dbe",
     "editorLineNumber.foreground": "#3a3a8f",
     "editorLineNumber.activeForeground": "#8080f1",
     "editorIndentGuide.background": "#2d2844",
@@ -89,6 +98,7 @@
     "scrollbarSlider.hoverBackground": "#6060eeb4",
     // Side Bar
     "sideBar.background": "#131330",
+    "sideBar.border": "#26265f",
     "sideBarSectionHeader.background": "#1d1d47",
     "sideBarSectionHeader.foreground": "#8080f1",
     // Status Bar
@@ -520,7 +530,7 @@
       "name": "TYPESCRIPT Entity Name Type",
       "scope": "source.ts entity.name.type",
       "settings": {
-        "foreground": "#b5341e"
+        "foreground": "#cb7162"
       }
     },
     {
