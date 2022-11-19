@@ -1,8 +1,8 @@
 {
   "name": "nitrous-vscode-color-theme",
-  "displayName": "NiTROUS",
-  "description": "A dark color theme for VSCode inspired by futuristic holo tech, comprised of a purple, pink, and blue palette.",
-  "version": "1.0.2",
+  "displayName": "NiTROUS Theme (Dark)",
+  "description": "A dark color theme for VSCode inspired by futuristic holo tech, comprised mainly of a purple and blue palette, with pink accents.",
+  "version": "1.0.3",
   "author": {
     "name": "George Merlocco",
     "email": "george@merloc.co",
@@ -12,11 +12,16 @@
     "url": "https://ko-fi.com/scar45"
   },
   "publisher": "nitrous-cloud",
+  "license": "CC BY-SA 4.0",
+  "homepage": "https://nitrous.cloud",
   "repository": {
     "type": "git",
     "url": "https://github.com/scar45/nitrous-vscode-color-theme"
   },
-  "icon": "images/nitrous-cloud-logo.png",
+  "bugs": {
+    "url": "https://github.com/scar45/nitrous-vscode-color-theme/issues"
+  },
+  "icon": "images/nitrous-theme-logo.png",
   "galleryBanner": {
     "color": "#091833",
     "theme": "dark"
@@ -32,12 +37,14 @@
     "blue",
     "pink",
     "futuristic",
+    "synthwave",
+    "cyberpunk",
     "design"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "NiTROUS",
+        "label": "NiTROUS Theme (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/nitrous-vscode-color-theme.json"
       }
