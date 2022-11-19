@@ -1,4 +1,4 @@
-# NiTROUS VSCode Color Theme Changelog
+# NiTROUS VS Code Color Theme Changelog
 
 This file tracks all meaningful changes to **nitrous-vscode-color-theme** during development.
 

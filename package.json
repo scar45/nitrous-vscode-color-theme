@@ -1,7 +1,7 @@
 {
   "name": "nitrous-vscode-color-theme",
   "displayName": "NiTROUS Theme (Dark)",
-  "description": "A dark color theme for VSCode inspired by futuristic holo tech, comprised mainly of a purple and blue palette, with pink accents.",
+  "description": "A dark color theme for VS Code inspired by futuristic holo tech, comprised mainly of a purple and blue palette, with pink accents.",
   "version": "1.0.3",
   "author": {
     "name": "George Merlocco",
