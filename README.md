@@ -4,20 +4,20 @@
 
 <h1 align="center" style="border: 0; margin-bottom: 0">NiTROUS Theme (Dark)</h1>
 
-<h2 align="center" style="font-size: 1.2rem">
+<p align="center">
 <em><small>designed by</small></em> <a href="https://george.merloc.co" title="Visit my website">George Merlocco 👨🏻‍💻 (scar45)</a>
 <br>
 <em><small>published by</small></em> <a href="https://nitrous.cloud" title="Visit nitrous.cloud">NiTROUS Cloud</a> 💨
-</h2>
+</p>
 
-<h3 align="center" style="padding-top: 15px">
+<p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=nitrous-cloud.nitrous-vscode-color-theme">
     <img src="https://img.shields.io/visual-studio-marketplace/v/nitrous-cloud.nitrous-vscode-color-theme" alt="version" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=nitrous-cloud.nitrous-vscode-color-theme&ssr=false#review-details">
     <img src="https://img.shields.io/visual-studio-marketplace/stars/nitrous-cloud.nitrous-vscode-color-theme?color=8080f1" alt="version" />
   </a>
-</h3>
+</p>
 
 ---
 
