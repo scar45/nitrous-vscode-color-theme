@@ -2,6 +2,10 @@
 
 This file tracks all meaningful changes to **nitrous-vscode-color-theme** during development.
 
+## [v1.0.5]
+
+- Metadata update
+
 ## [v1.0.4]
 
 - Improved color/contrast of diff backgrounds
