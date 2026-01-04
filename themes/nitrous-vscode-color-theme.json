@@ -49,11 +49,16 @@
     "editorInfo.foreground": "#7984D1",
     "editorRuler.foreground": "#4d4dbe",
     "editorWarning.foreground": "#F57800",
-    // Editor Widget Colors
+    // Editor Widget
     "editorWidget.background": "#123166",
     "editorWidget.border": "#2d7aff",
     "editorHoverWidget.background": "#123166",
     "editorHoverWidget.border": "#2d7aff",
+    // Diff Editor
+    "diffEditor.insertedLineBackground": "#4dff000d",
+    "diffEditor.insertedTextBackground": "#4dff001e",
+    "diffEditor.removedLineBackground": "#8100003d",
+    "diffEditor.removedTextBackground": "#8100004e",
     // Git Colors
     "gitDecoration.modifiedResourceForeground": "#baffbd",
     "gitDecoration.deletedResourceForeground": "#ff9f9f",
@@ -98,7 +103,8 @@
     "scrollbarSlider.hoverBackground": "#6060eeb4",
     // Side Bar
     "sideBar.background": "#131330",
-    "sideBar.border": "#26265f",
+    "sideBar.border": "#4747AF",
+    "sideBarTitle.border": "#4747AF",
     "sideBarSectionHeader.background": "#1d1d47",
     "sideBarSectionHeader.foreground": "#8080f1",
     // Status Bar
@@ -119,6 +125,7 @@
     // Terminal
     "terminal.background": "#131330",
     "terminal.foreground": "#b0b0f7",
+    "terminal.border": "#4747AF",
     "terminal.ansiBlack": "#131330",
     "terminal.ansiBrightBlack": "#1d1d47",
     "terminal.ansiBlue": "#57a6ff",

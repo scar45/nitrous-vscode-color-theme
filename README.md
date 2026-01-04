@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-A dark color theme for VS Code inspired by futuristic holo tech,<br>comprised mainly of a purple and blue palette, with pink accents.
+A dark color theme for VS Code inspired by futuristic holo tech, comprised mainly of a purple and blue palette, with pink accents.
 </p>
 
 <p align="center">

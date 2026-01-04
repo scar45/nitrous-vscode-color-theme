@@ -2,7 +2,7 @@
   "name": "nitrous-vscode-color-theme",
   "displayName": "NiTROUS Theme (Dark)",
   "description": "A dark color theme for VS Code inspired by futuristic holo tech, comprised mainly of a purple and blue palette, with pink accents.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": {
     "name": "George Merlocco",
     "email": "george@merloc.co",
@@ -25,6 +25,14 @@
   "galleryBanner": {
     "color": "#091833",
     "theme": "dark"
+  },
+  "scripts": {
+    "package": "vsce package",
+    "login:vsce": "vsce login nitrous-cloud",
+    "login:ovsx": "ovsx login",
+    "publish:vscode": "vsce publish",
+    "publish:ovsx": "ovsx publish",
+    "publish": "npm run publish:vscode && npm run publish:ovsx"
   },
   "engines": {
     "vscode": "^1.73.0"
@@ -49,5 +57,9 @@
         "path": "./themes/nitrous-vscode-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.7.1",
+    "ovsx": "^0.10.7"
   }
 }
